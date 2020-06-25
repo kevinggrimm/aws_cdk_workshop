@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Welcome to your CDK Python project!
 
@@ -63,3 +64,6 @@ command.
  * `cdk docs`        open CDK documentation
 
 Enjoy!
+=======
+# aws_cdk_workshop
+>>>>>>> 70b7e08eb39c10c2e39e0602d4d5f8e097f94ba5
